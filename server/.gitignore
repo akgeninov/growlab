@@ -12,8 +12,8 @@
 /build
 
 # misc
-client/.env
-client/src/lib/firebase/firebase.js
+.env
+src/lib/firebase/firebase.js
 .DS_Store
 .env.local
 .env.development.local
