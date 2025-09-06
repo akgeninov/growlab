@@ -4,10 +4,10 @@
 Growlab adalah platform web yang dikembangkan selama program magang, dengan tujuan menyediakan informasi dan layanan terkait **artikel**, **kelas bisnis**, dan **lowongan pekerjaan**.  
 
 ## Fitur Utama
-- 📖 Artikel bisnis & pengembangan diri  
-- 🎓 Kelas bisnis online  
-- 💼 Lowongan pekerjaan  
-- 🔐 Admin panel untuk kelola konten (CRUD)  
+- Artikel bisnis & pengembangan diri  
+- Kelas bisnis online  
+- Lowongan pekerjaan  
+- Admin panel untuk kelola konten (CRUD)  
 
 ## Tech Stack
 - **Frontend:** React.js  
